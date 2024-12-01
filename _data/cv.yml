@@ -1,19 +1,19 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Elisabeth Norcliffe
     - name: Contact
-      value: 14th March 1879
+      value: Department of Experimental Psychology, University of Oxford
     - name: Keywords 
       value: Linguistic typology, cross-linguistic psycholinguistics, lexical semantics, historical linguistics, sensory language, Mayan languages, Barbacoan languages
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Linguistics
+      institution: Stanford University
+      year: 2009
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MA in Linguistics
+      institution: University of Canterbury
+      year: 2003
       description:
         - Description 1.
         - Description 2.
@@ -32,15 +32,9 @@
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
+      institution: Department of Experimental Psychology, University of Oxford
       year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+
     - title: Visiting Professor
       institution: California Institute of Technology, Pasadena, California, US
       year: 1933
@@ -61,37 +55,27 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
         - Nobel Prize in Physics
         - Matteucci Medal
-    - year: 2029
+    - year: 2008 
       items:
-        - Max Planck Medal
+        - Mellon/American Council of Learned Societies Dissertation Completion Fellowship [awarded to the top 65 applicants in the USA, any discipline] 
+    - year: 2003
+      items:
+        - Stanford University Graduate Fellowship
+    - year: 2002
+      items:
+        - University of Canterbury Graduates Association Scholarship [awarded to the top applicant from the faculties of Arts, Commerce, Law, Music and Fine Arts combined]
+        - New Zealand Federation of University Women Canterbury Branch Masters' Scholarship [awarded to the top female applicant at the University of Canterbury, any discipline]
+  - year: 2001
+      items:
+        - New Zealand Federation of University Women Sadie Balkind Award
+  - year: 2001
+      items:
+        - German Academic Exchange Service Scholarship [awarded to top five applicants in New Zealand] 
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
