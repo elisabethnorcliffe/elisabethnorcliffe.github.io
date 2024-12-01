@@ -15,17 +15,14 @@
       institution: Stanford University
       year: 2009
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - >
+        Dissertation: <i>Head Marking in Usage and Grammar: A study of Variation and Change in Yucatec Maya</i>
     - title: MA in Linguistics
       institution: University of Canterbury
       year: 2003
       description:
-        - Thesis title: The Historical Reconstruction of Proto-Huastecan
+        - >
+        Thesis: <i>The Historical Reconstruction of Proto-Huastecan</i> 
     - title: BA (Hons) in Linguistics and German
       institution: University of Canterbury
       year: 2001
