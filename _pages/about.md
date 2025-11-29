@@ -2,33 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+#subtitle: Marie Skłodowska-Curie fellow at the University of Oxford
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ElisabethNorcliffe.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  #more_info: > <p>555 your office number</p> <p>123 your address street</p> <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
+I am a Marie Skłodowska-Curie fellow in the Department of Experimental Psychology at Oxford. Previously I worked as a staff scientist at the Max Planck Institute for Psycholinguistics in Nijmegen. I hold a Masters in Linguistics from the University of Canterbury (New Zealand) and a PhD in Linguistics from Stanford University.  
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research lies at the intersection of linguistic typology and psycholinguistics. One strand of my work concentrates on charting cross-linguistic variation and identifying the factors (communicative, cultural, cognitive) that shape and constrain it.  A second, related strand concerns the consequences of typological variation for language processing. I study these topics mainly at the level of morphosyntax and lexical semantics. A core thread in my research is an emphasis on less-studied languages, both for their contribution to our understanding of linguistic diversity and its limits, and as a means of widening the empirical base of psycholinguistic research. My work draws particularly on primary data from languages of Meso and South America, as well as on large-scale global typological datasets, and involves a range of behavioural experimental, quantitative and qualitative methods.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am also involved in the linguistic documentation and comparative-historical analysis of languages of Andean South America, with a particular focus on Guambiano (Nam Trik) and related Barbacoan languages of Ecuador and Colombia.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+
