@@ -68,7 +68,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-barbacoan-historical-linguistics",
-          title: 'Barbacoan Historical linguistics',
+          title: 'Barbacoan historical linguistics',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
