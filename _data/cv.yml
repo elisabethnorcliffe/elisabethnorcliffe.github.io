@@ -1,17 +1,17 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Elisabeth Norcliffe
+    - name: Contact
+      value: Surrey Morphology Group
+    - name: Keywords
+      value: Linguistic typology, cross-linguistic psycholinguistics, historical linguistics, lexical semantics, Mayan languages, Barbacoan languages 
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: PhD in Linguistics
       institution: University of Zurich, Zurich, Switzerland
       year: 1905
       description:
