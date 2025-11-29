@@ -4,7 +4,7 @@
     - name: Name
       value: Elisabeth Norcliffe
     - name: Contact
-      value: Department of Experimental Psychology, University of Oxford
+      value: Surrey Morphology Group, University of Surrey
     - name: Keywords 
       value: Linguistic typology, cross-linguistic psycholinguistics, lexical semantics, historical linguistics, sensory language, Mayan languages, Barbacoan languages
 
@@ -24,9 +24,12 @@
 - title: Experience
   type: time_table
   contents:
+    title: Visiting researcher
+      institution: Surrey Morphology Group, University of Surrey
+      year: 2025 - now
     - title: Marie Skłodowska-Curie Senior Research Fellow (continued)
       institution: Department of Experimental Psychology, University of Oxford
-      year: 2022 - now
+      year: 2022 - 2025
     - title: Marie Skłodowska-Curie Senior Research Fellow 
       institution: Department of Psychology, University of York
       year: 2019 - 2022
