@@ -53,27 +53,20 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Best Paper in Language Award
+    - year: 2008 - 2009
       items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+        - Mellon/American Council of Learned Societies Dissertation Completion Fellowship 
+    - year: 2003 - 2008
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Stanford University Graduate Fellowship
+    - year: 2002
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - University of Canterbury Graduates Association Scholarship 
+        - New Zealand Federation of University Women Canterbury Branch Masters' Scholarship
+    - year: 2001
+      items:
+        - New Zealand Federation of University Women Sadie Balkind Award
+        - German Academic Exchange Service Scholarship
