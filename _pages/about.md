@@ -18,7 +18,7 @@ I am a linguist, with research interests straddling the areas of linguistic typo
 
 I am also involved in the linguistic documentation and comparative-historical analysis of languages of Andean South America, with a particular focus on Guambiano (Nam Trik) and related Barbacoan languages of Ecuador and Colombia.
 
- I am currently a visiting researcher with the Surrey Morphology Group, University of Surrey. Previously, I was a Marie Skłodowska-Curie fellow in the Department of Experimental Psychology at Oxford, and before then, a staff scientist at the Max Planck Institute for Psycholinguistics in Nijmegen. I hold a Masters in Linguistics from the University of Canterbury (New Zealand) and a PhD in Linguistics from Stanford University.  
+ I am currently a visiting researcher with the Surrey Morphology Group, University of Surrey. Previously, I was a Marie Skłodowska-Curie fellow in the Department of Experimental Psychology at Oxford, and before then, a staff scientist at the Max Planck Institute for Psycholinguistics in Nijmegen. I hold a Masters in Linguistics from the University of Canterbury (New Zealand) and a PhD in Linguistics from Stanford University.   
 
 
 
