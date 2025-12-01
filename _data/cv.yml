@@ -52,7 +52,13 @@
 
 - title: Fellowships and Awards
   type: time_table
-  contents:     
+  contents:
+    - year: 2024
+      items:
+        - Best Paper in Language Award
+    - year: 2019 - 2025
+      items:
+        - Marie Skłodowska-Curie Individual Research Fellowship     
     - year: 2008 - 2009
       items:
         - Mellon/American Council of Learned Societies Dissertation Completion Fellowship 
