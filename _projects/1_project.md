@@ -50,8 +50,8 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 
 
 {% cite majid_norcliffe_2026 %}
-{% norcliffe_verbs_2024 %} 
-{% norcliffe_word_2024 %} 
-{% san_roque_vision_2024 %} 
+{% cite norcliffe_verbs_2024 %} 
+{% cite norcliffe_word_2024 %} 
+{% cite san_roque_vision_2024 %} 
 
 
