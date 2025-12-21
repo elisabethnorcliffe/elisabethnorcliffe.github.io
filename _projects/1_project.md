@@ -8,9 +8,7 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+It has been proposed that there may be underlying regularities in how languages encode perceptual experiences in words, pointing to the possibility that our cognitive architecture plays a role in constraining the variability in this domain of language. This project aims to test this idea by investigating how basic perceptual experiences (e.g. seeing, hearing, smelling) are encoded by verbs across languages, how they evolve over time, and how they are learned. 
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
