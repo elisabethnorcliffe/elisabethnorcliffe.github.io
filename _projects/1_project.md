@@ -15,6 +15,9 @@ One line of research has focused on variability and regularity across languages 
 
 In a related study {% cite norcliffe_word_2024 %}, we extended the focus to patterns of word formation in perception verb lexicons. Perception verbs sometimes extend their meaning to a different sensory meaning through processes of word formation. For example, the verb ‘hear’ might combine with a noun ‘odour’, to derive a verb meaning ‘to smell’.  Our study found that across languages, semantic extensions of this type tend to proceed hierarchically from higher to lower sense modalities. We suggest that human biology and neurophysiology do not need to be directly invoked to explain this hierarchical patterning, however. Previous research has demonstrated that the directionality of semantic extensions in word formation is predicted by word frequency: words that are the sources of extensions tend to be more frequent than the derivations. Lexical frequency therefore is likely the direct cause of our directionality finding, as it has been shown that verbs of vision and audition tend to be more frequent in speech than those of the lower senses. This does not rule out the possibility that the crosslinguistic frequency patterns themselves are shaped by the relative dominance of the senses in human perception, though research suggests that these lexical frequency patterns are more likely the outcome of convergent factors.
 
+Another line of research has focused on the acquisition of perception verbs. In a collaboratino with Lila San Roque (Australian National University) we examined the acquisition trajectories of perception verbs among English speaking children, using data from parent questionnaires and corpora of children’s spontaneous speech {% cite san_roque_vision_2024 %}. This revealed that visual perception verbs (‘see’ and ‘look’) are acquired earliest, mirroring the dominance of vision in lexical systems. Intriguingly, touch rather than audition verbs came second, in both age of acquisition and production frequency. This finding was replicated in age of acquisition data from a further 11 languages. The robust touch-before-hearing result possibly reflects the early relevance of the tactile modality for infants for whom much of the experienced world is explored through the hands. It may also be driven by the speech of caregivers towards young infants about behaviour regulation, especially prohibitions against touching, raising fascinating questions for future study about how individual sensory experience interacts with linguistic input to scaffold language learning. 
+
+Many of the results of project have been summarised in a new review article on the lexical typology of sensory perception {% cite majid_norcliffe_2026 %}
 
 
 
@@ -23,14 +26,8 @@ In a related study {% cite norcliffe_word_2024 %}, we extended the focus to patt
 
 
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 
-{% cite majid_norcliffe_2026 %}
 
-
-{% cite san_roque_vision_2024 %} 
 
 
