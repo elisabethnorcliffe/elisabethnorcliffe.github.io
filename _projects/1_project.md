@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lexical typology of sensory perception
-description: A Marie Sklodowoska-Curie funded project ()
+description: A project funded by European Union’s Horizon 2020 research and innovation programme (Marie Skłodowska-Curie grant agreement 836921 [LEXPEX])
 img: assets/img/12.jpg
 importance: 1
 category: work
