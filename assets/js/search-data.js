@@ -59,7 +59,7 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "projects-lexical-typology-of-sensory-perception",
           title: 'Lexical typology of sensory perception',
-          description: "with background image",
+          description: "A Marie Sklodowoska-Curie funded project ()",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-linguistic-diversity-and-language-processing",
