@@ -59,7 +59,7 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "projects-lexical-typology-of-sensory-perception",
           title: 'Lexical typology of sensory perception',
-          description: "A project funded by European Union’s Horizon 2020 research and innovation programme (Marie Skłodowska-Curie grant agreement 836921 [LEXPEX])",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-linguistic-diversity-and-language-processing",
