@@ -19,7 +19,7 @@ Another line of research has focused on the acquisition of perception verbs. In 
 
 Many of the results of project have been summarised in a new review article on the lexical typology of sensory perception {% cite majid_norcliffe_2026 %}
 
-
+The Perception Verb Database is accessible here: https://zenodo.org/records/17963242
 
 
 
