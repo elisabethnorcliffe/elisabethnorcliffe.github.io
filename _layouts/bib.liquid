@@ -141,7 +141,6 @@
 {% else %}
   {% capture entrytype %}
     {% if entry.booktitle %}<em>{{ entry.booktitle }}</em>{% endif %}
-    {% if entry.editor %}, edited by {{ entry.editor }}{% endif %}
     {% if entry.publisher %}, {{ entry.publisher }}{% endif %}
   {% endcapture %}
 {% endif %}
