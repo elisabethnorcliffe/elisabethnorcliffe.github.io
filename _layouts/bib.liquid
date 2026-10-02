@@ -103,7 +103,14 @@
         </i>
       {% endif %}
     </div>
-
+{% if entry.type == 'book' and entry.editor_array %}
+  <div class="author">
+    {% for editor in entry.editor_array %}
+      {{ editor.first }} {{ editor.last }}{% unless forloop.last %}{% if forloop.rindex == 2 %} and {% else %}, {% endif %}{% endunless %}
+    {% endfor %}
+    (editors)
+  </div>
+{% endif %}
     <!-- Journal/Book title and date -->
     {% assign proceedings = 'inproceedings' | split: ',' %}
 {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
