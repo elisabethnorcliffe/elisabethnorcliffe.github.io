@@ -2,7 +2,7 @@
 layout: page
 title: Lexical typology of sensory perception
 description: 
-img: assets/img/12.jpg
+# img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
