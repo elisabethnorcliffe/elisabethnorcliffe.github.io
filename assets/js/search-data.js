@@ -64,12 +64,12 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-linguistic-diversity-and-language-processing",
           title: 'Linguistic diversity and language processing',
-          description: "a project with a background image and giscus comments",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-barbacoan-historical-linguistics",
           title: 'Barbacoan historical linguistics',
-          description: "a project that redirects to another website",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{
